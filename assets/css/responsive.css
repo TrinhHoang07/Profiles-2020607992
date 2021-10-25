@@ -120,6 +120,10 @@
     .slider__img {
         height: 286px;
     }
+    
+    .slider__child {
+        top: 244px;
+    }
 }
 
 @media (max-width: 739px) {
