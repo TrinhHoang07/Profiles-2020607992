@@ -222,11 +222,7 @@
     }
 
     .block2-second__content2-link {
-        padding: 4px;
-    }
-    
-    .block2-second__content2-link.primary {
-        padding: 4px;
+        padding: 8px 15px;
     }
 
     .block2-three__content3-three {
