@@ -244,4 +244,32 @@
         height: 20px;
         line-height: 20px;
     }
+    
+    .acc-child2,
+    .notify-child2,
+    .messenger-child2 {
+        height: 100%;
+        width: 100%;
+    }
+
+    .messenger-child2-2 {
+        height: calc(667px - 54px - 46px - 54px);
+    }
+
+    .slider__content-container3 {
+        margin-bottom: 54px;
+    }
+
+    .slider__content-container3__span-link {
+        display: block;
+        line-height: 22px;
+        margin: 8px 0;
+    }
+}
+
+@media (min-width: 414px) and (max-width: 736px) {
+    .messenger-child2-2 {
+        height: calc(736px - 54px - 46px - 54px);
+    }
+        
 }
