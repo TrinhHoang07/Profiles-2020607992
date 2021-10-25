@@ -267,9 +267,9 @@
     }
 }
 
-@media (min-width: 414px) and (max-width: 736px) {
+/* @media (min-width: 414px) and (max-width: 736px) {
     .messenger-child2-2 {
         height: calc(736px - 54px - 46px - 54px);
     }
         
-}
+} */
