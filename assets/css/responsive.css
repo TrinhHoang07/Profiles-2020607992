@@ -224,6 +224,10 @@
     .block2-second__content2-link {
         padding: 8px 10px;
     }
+    
+    .block2-second__content2-link.primary {
+        padding: 8px 10px;
+    }
 
     .block2-three__content3-three {
         width: 360px;
